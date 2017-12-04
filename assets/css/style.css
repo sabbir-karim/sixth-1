@@ -1,0 +1,32 @@
+
+body {
+    color: #fff;
+    font-size: 18px;
+}
+
+.red{
+     background: red;
+   }
+.yellow{
+background: yellow;
+}
+.orange{
+background: orange;
+}
+.blue{
+background: skyblue;
+}
+.green{
+ background: seagreen;  
+}
+
+.indigo{
+	background: indigo;
+	}
+
+p{
+	margin: 0 auto;
+	padding: 50px 20px;
+	color: #fff; 
+	border: 5px solid;
+}
